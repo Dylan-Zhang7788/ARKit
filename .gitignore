@@ -1,0 +1,11 @@
+train_aug_120x120/*
+aflw2000_data/*
+ckpts/*
+ckpts_resnet101/*
+pretrained/*
+inference_output/*
+__pycache__/*
+3dmm_data/
+backbone_nets/ResNeSt/__pycache__/
+utils/__pycache__/
+backbone_nets/__pycache__/
