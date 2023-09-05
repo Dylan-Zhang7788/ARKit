@@ -9,3 +9,16 @@ __pycache__/*
 backbone_nets/ResNeSt/__pycache__/
 utils/__pycache__/
 backbone_nets/__pycache__/
+SynergyNet_checkpoint_epoch_100.pth.tar
+0F598DC2-29E5-41F7-B374-4A3F5E27216D20230724
+test_0816
+0F598DC2-29E5-41F7-B374-4A3F5E27216D20230724.tar.gz
+3dmm_data
+Sim3DR
+.vscode
+point_cloud_compare.ply
+img_100
+array_d.npy
+*.obj
+*.ply
+*.pyc
